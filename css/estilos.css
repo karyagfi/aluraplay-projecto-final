@@ -250,6 +250,7 @@ body {
     padding: 10px 0 20px 0;
 }
 
+/* MENU LATERAL PARA PANTALLAS DE TABLETS */
 @media(min-width: 834px) {
 
     body {
